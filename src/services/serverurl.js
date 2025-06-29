@@ -1,1 +1,1 @@
-export const server_url="https://dwellio-server.onrender.com"
+export const server_url="http://localhost:3000"
